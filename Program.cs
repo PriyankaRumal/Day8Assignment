@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UseCase1
+namespace UseCase2
 {
     internal class Program
     {
